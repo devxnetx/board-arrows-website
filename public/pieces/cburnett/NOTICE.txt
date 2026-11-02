@@ -1,0 +1,3 @@
+Piece drawings are the CBurnett set by Colin M.L. Burnett, used under the GPL.
+Source: https://github.com/lichess-org/lila/tree/master/public/piece/cburnett
+They are not Chess.com artwork.
